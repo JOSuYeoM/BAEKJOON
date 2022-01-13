@@ -1,3 +1,5 @@
-#1부터 n까지의 합
-a=int(input())
-print(a*(a+1)//2)
+t = int(input())  # 테스트 케이스 개수 t를 입력받음
+
+for i in range(t):  # t 만큼 반복
+    a,b = map(int,input().split())
+    print(a+b)
