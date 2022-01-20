@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ceaa761-e808-4e71-b000-9e1086b7a423" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4673.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11720.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +36,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.4673">
-    <configuration name="15596" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11720">
+    <configuration name="11720" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15596.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11720.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11720" />
         <item itemvalue="Python.4673" />
         <item itemvalue="Python.4344" />
         <item itemvalue="Python.3052" />
         <item itemvalue="Python.8958" />
-        <item itemvalue="Python.15596" />
       </list>
     </recent_temporary>
   </component>
